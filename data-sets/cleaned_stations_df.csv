@@ -1,0 +1,231 @@
+StationId,City,State,Station,Location,Organization
+AP001,Amaravati,Andhra Pradesh,Secretariat,Amaravati,APPCB
+AP002,Rajamahendravaram,Andhra Pradesh,Anand Kala Kshetram,Rajamahendravaram,APPCB
+AP003,Tirupati,Andhra Pradesh,Tirumala,Tirupati,APPCB
+AP004,Vijayawada,Andhra Pradesh,PWD Grounds,Vijayawada,APPCB
+AP005,Visakhapatnam,Andhra Pradesh,GVM Corporation,Visakhapatnam,APPCB
+AS001,Guwahati,Assam,Railway Colony,Guwahati,APCB
+BR001,Gaya,Bihar,Collectorate,Gaya,BSPCB
+BR002,Gaya,Bihar,SFTI Kusdihra,Gaya,BSPCB
+BR003,Hajipur,Bihar,Industrial Area,Hajipur,BSPCB
+BR004,Muzaffarpur,Bihar,Muzaffarpur Collectorate,Muzaffarpur,BSPCB
+BR005,Patna,Bihar,DRM Office Danapur,Patna,BSPCB
+BR006,Patna,Bihar,Govt. High School Shikarpur,Patna,BSPCB
+BR007,Patna,Bihar,IGSC Planetarium Complex,Patna,BSPCB
+BR008,Patna,Bihar,Muradpur,Patna,BSPCB
+BR009,Patna,Bihar,Rajbansi Nagar,Patna,BSPCB
+BR010,Patna,Bihar,Samanpura,Patna,BSPCB
+CH001,Chandigarh,Chandigarh,Sector-25,Chandigarh,CPCC
+DL001,Delhi,Delhi,Alipur,Delhi,DPCC
+DL002,Delhi,Delhi,Anand Vihar,Delhi,DPCC
+DL003,Delhi,Delhi,Ashok Vihar,Delhi,DPCC
+DL004,Delhi,Delhi,Aya Nagar,Delhi,IMD
+DL005,Delhi,Delhi,Bawana,Delhi,DPCC
+DL006,Delhi,Delhi,Burari Crossing,Delhi,IMD
+DL007,Delhi,Delhi,CRRI Mathura Road,Delhi,IMD
+DL008,Delhi,Delhi,DTU,Delhi,CPCB
+DL009,Delhi,Delhi,Dr. Karni Singh Shooting Range,Delhi,DPCC
+DL010,Delhi,Delhi,Dwarka-Sector 8,Delhi,DPCC
+DL011,Delhi,Delhi,East Arjun Nagar,Delhi,CPCB
+DL012,Delhi,Delhi,IGI Airport (T3),Delhi,IMD
+DL013,Delhi,Delhi,IHBAS,"Dilshad Garden, Delhi",CPCB
+DL014,Delhi,Delhi,ITO,Delhi,CPCB
+DL015,Delhi,Delhi,Jahangirpuri,Delhi,DPCC
+DL016,Delhi,Delhi,Jawaharlal Nehru Stadium,Delhi,DPCC
+DL017,Delhi,Delhi,Lodhi Road,Delhi,IMD
+DL018,Delhi,Delhi,Major Dhyan Chand National Stadium,Delhi,DPCC
+DL019,Delhi,Delhi,Mandir Marg,Delhi,DPCC
+DL020,Delhi,Delhi,Mundka,Delhi,DPCC
+DL021,Delhi,Delhi,NSIT Dwarka,Delhi,CPCB
+DL022,Delhi,Delhi,Najafgarh,Delhi,DPCC
+DL023,Delhi,Delhi,Narela,Delhi,DPCC
+DL024,Delhi,Delhi,Nehru Nagar,Delhi,DPCC
+DL025,Delhi,Delhi,North Campus,"DU, Delhi",IMD
+DL026,Delhi,Delhi,Okhla Phase-2,Delhi,DPCC
+DL027,Delhi,Delhi,Patparganj,Delhi,DPCC
+DL028,Delhi,Delhi,Punjabi Bagh,Delhi,DPCC
+DL029,Delhi,Delhi,Pusa,Delhi,DPCC
+DL030,Delhi,Delhi,Pusa,Delhi,IMD
+DL031,Delhi,Delhi,R K Puram,Delhi,DPCC
+DL032,Delhi,Delhi,Rohini,Delhi,DPCC
+DL033,Delhi,Delhi,Shadipur,Delhi,CPCB
+DL034,Delhi,Delhi,Sirifort,Delhi,CPCB
+DL035,Delhi,Delhi,Sonia Vihar,Delhi,DPCC
+DL036,Delhi,Delhi,Sri Aurobindo Marg,Delhi,DPCC
+DL037,Delhi,Delhi,Vivek Vihar,Delhi,DPCC
+DL038,Delhi,Delhi,Wazirpur,Delhi,DPCC
+GJ001,Ahmedabad,Gujarat,Maninagar,Ahmedabad,GPCB
+GJ002,Ankleshwar,Gujarat,GIDC,Ankleshwar,GPCB
+GJ003,Gandhinagar,Gujarat,Sector-10,Gandhinagar,GPCB
+GJ004,Nandesari,Gujarat,GIDC,Nandesari,Nandesari Ind. Association
+GJ005,Vapi,Gujarat,Phase-1 GIDC,Vapi,GPCB
+GJ006,Vatva,Gujarat,Phase-4 GIDC,Vatva,GPCB
+HR001,Ambala,Haryana,Patti Mehar,Ambala,HSPCB
+HR002,Bahadurgarh,Haryana,Arya Nagar,Bahadurgarh,HSPCB
+HR003,Ballabgarh,Haryana,Nathu Colony,Ballabgarh,HSPCB
+HR004,Bhiwani,Haryana,H.B. Colony,Bhiwani,HSPCB
+HR005,Dharuhera,Haryana,Municipal Corporation Office,Dharuhera,HSPCB
+HR006,Faridabad,Haryana,New Industrial Town,Faridabad,HSPCB
+HR007,Faridabad,Haryana,Sector 11,Faridabad,HSPCB
+HR008,Faridabad,Haryana,Sector 30,Faridabad,HSPCB
+HR009,Faridabad,Haryana,Sector- 16A,Faridabad,HSPCB
+HR010,Fatehabad,Haryana,Huda Sector,Fatehabad,HSPCB
+HR011,Gurugram,Haryana,NISE Gwal Pahari,Gurugram,IMD
+HR012,Gurugram,Haryana,Sector-51,Gurugram,HSPCB
+HR013,Gurugram,Haryana,Teri Gram,Gurugram,HSPCB
+HR014,Gurugram,Haryana,Vikas Sadan,Gurugram,HSPCB
+HR015,Hisar,Haryana,Urban Estate-II,Hisar,HSPCB
+HR016,Jind,Haryana,Police Lines,Jind,HSPCB
+HR017,Kaithal,Haryana,Rishi Nagar,Kaithal,HSPCB
+HR018,Karnal,Haryana,Sector-12,Karnal,HSPCB
+HR019,Kurukshetra,Haryana,Sector-7,Kurukshetra,HSPCB
+HR020,Mandikhera,Haryana,General Hospital,Mandikhera,HSPCB
+HR021,Manesar,Haryana,Sector-2 IMT,Manesar,HSPCB
+HR022,Narnaul,Haryana,Shastri Nagar,Narnaul,HSPCB
+HR023,Palwal,Haryana,Shyam Nagar,Palwal,HSPCB
+HR024,Panchkula,Haryana,Sector-6,Panchkula,HSPCB
+HR025,Panipat,Haryana,Sector-18,Panipat,HSPCB
+HR026,Rohtak,Haryana,MD University,Rohtak,HSPCB
+HR027,Sirsa,Haryana,F-Block,Sirsa,HSPCB
+HR028,Sonipat,Haryana,Murthal,Sonipat,HSPCB
+HR029,Yamuna Nagar,Haryana,Gobind Pura,Yamuna Nagar,HSPCB
+JH001,Jorapokhar,Jharkhand,Tata Stadium,Jorapokhar,JSPCB
+KA001,Bagalkot,Karnataka,Vidayagiri,Bagalkot,KSPCB
+KA002,Bengaluru,Karnataka,BTM Layout,Bengaluru,CPCB
+KA003,Bengaluru,Karnataka,BWSSB Kadabesanahalli,Bengaluru,CPCB
+KA004,Bengaluru,Karnataka,Bapuji Nagar,Bengaluru,KSPCB
+KA005,Bengaluru,Karnataka,City Railway Station,Bengaluru,KSPCB
+KA006,Bengaluru,Karnataka,Hebbal,Bengaluru,KSPCB
+KA007,Bengaluru,Karnataka,Hombegowda Nagar,Bengaluru,KSPCB
+KA008,Bengaluru,Karnataka,Jayanagar 5th Block,Bengaluru,KSPCB
+KA009,Bengaluru,Karnataka,Peenya,Bengaluru,CPCB
+KA010,Bengaluru,Karnataka,Sanegurava Halli,Bengaluru,KSPCB
+KA011,Bengaluru,Karnataka,Silk Board,Bengaluru,KSPCB
+KA012,Chamarajanagar,Karnataka,Urban,Chamarajanagar,KSPCB
+KA013,Chikkaballapur,Karnataka,Chikkaballapur Rural,Chikkaballapur,KSPCB
+KA014,Chikkamagaluru,Karnataka,Kalyana Nagara,Chikkamagaluru,KSPCB
+KA015,Hubballi,Karnataka,Deshpande Nagar,Hubballi,KSPCB
+KA016,Kalaburagi,Karnataka,Lal Bahadur Shastri Nagar,Kalaburagi,KSPCB
+KA017,Mysuru,Karnataka,Hebbal 1st Stage,Mysuru,KSPCB
+KA018,Ramanagara,Karnataka,Vijay Nagar,Ramanagara,KSPCB
+KA019,Vijayapura,Karnataka,Ibrahimpur,Vijayapura,KSPCB
+KA020,Yadgir,Karnataka,Collector Office,Yadgir,KSPCB
+KL001,Eloor,Kerala,Udyogamandal,Eloor,Kerala PCB
+KL002,Ernakulam,Kerala,Kacheripady,Ernakulam,Kerala PCB
+KL003,Kannur,Kerala,Thavakkara,Kannur,Kerala PCB
+KL004,Kochi,Kerala,Vyttila,Kochi,Kerala PCB
+KL005,Kollam,Kerala,Polayathode,Kollam,Kerala PCB
+KL006,Kozhikode,Kerala,Palayam,Kozhikode,Kerala PCB
+KL007,Thiruvananthapuram,Kerala,Kariavattom,Thiruvananthapuram,Kerala PCB
+KL008,Thiruvananthapuram,Kerala,Plammoodu,Thiruvananthapuram,Kerala PCB
+MP001,Bhopal,Madhya Pradesh,T T Nagar,Bhopal,MPPCB
+MP002,Damoh,Madhya Pradesh,Shrivastav Colony,Damoh,MPPCB
+MP003,Dewas,Madhya Pradesh,Bhopal Chauraha,Dewas,MPPCB
+MP004,Gwalior,Madhya Pradesh,City Center,Gwalior,MPPCB
+MP005,Gwalior,Madhya Pradesh,Phool Bagh,Gwalior,Mondelez Ind. Food
+MP006,Indore,Madhya Pradesh,Chhoti Gwaltoli,Indore,MPPCB
+MP007,Jabalpur,Madhya Pradesh,Marhatal,Jabalpur,MPPCB
+MP008,Katni,Madhya Pradesh,Gole Bazar,Katni,MPPCB
+MP009,Maihar,Madhya Pradesh,Sahilara,Maihar,KJS Cements
+MP010,Mandideep,Madhya Pradesh,Sector-D Industrial Area,Mandideep,MPPCB
+MP011,Pithampur,Madhya Pradesh,Sector-2 Industrial Area,Pithampur,MPPCB
+MP012,Ratlam,Madhya Pradesh,Shasthri Nagar,Ratlam,IPCA Lab
+MP013,Sagar,Madhya Pradesh,Deen Dayal Nagar,Sagar,MPPCB
+MP014,Satna,Madhya Pradesh,Bandhavgar Colony,Satna,Birla Cement
+MP015,Singrauli,Madhya Pradesh,Vindhyachal STPS,Singrauli,MPPCB
+MP016,Ujjain,Madhya Pradesh,Mahakaleshwar Temple,Ujjain,MPPCB
+MH001,Aurangabad,Maharashtra,More Chowk Waluj,Aurangabad,MPCB
+MH002,Chandrapur,Maharashtra,Chandrapur,Chandrapur,MPCB
+MH003,Chandrapur,Maharashtra,MIDC Khutala,Chandrapur,MPCB
+MH004,Kalyan,Maharashtra,Khadakpada,Kalyan,MPCB
+MH005,Mumbai,Maharashtra,Bandra,Mumbai,MPCB
+MH006,Mumbai,Maharashtra,Borivali East,Mumbai,MPCB
+MH007,Mumbai,Maharashtra,Chhatrapati Shivaji Intl. Airport (T2),Mumbai,MPCB
+MH008,Mumbai,Maharashtra,Colaba,Mumbai,MPCB
+MH009,Mumbai,Maharashtra,Kurla,Mumbai,MPCB
+MH010,Mumbai,Maharashtra,Powai,Mumbai,MPCB
+MH011,Mumbai,Maharashtra,Sion,Mumbai,MPCB
+MH012,Mumbai,Maharashtra,Vasai West,Mumbai,MPCB
+MH013,Mumbai,Maharashtra,Vile Parle West,Mumbai,MPCB
+MH014,Mumbai,Maharashtra,Worli,Mumbai,MPCB
+MH015,Nagpur,Maharashtra,Opp GPO Civil Lines,Nagpur,MPCB
+MH016,Nashik,Maharashtra,Gangapur Road,Nashik,MPCB
+MH017,Navi Mumbai,Maharashtra,Airoli,Navi Mumbai,MPCB
+MH018,Navi Mumbai,Maharashtra,Mahape,Navi Mumbai,MPCB
+MH019,Navi Mumbai,Maharashtra,Nerul,Navi Mumbai,MPCB
+MH020,Pune,Maharashtra,Karve Road,Pune,MPCB
+MH021,Solapur,Maharashtra,Solapur,Solapur,MPCB
+MH022,Thane,Maharashtra,Pimpleshwar Mandir,Thane,MPCB
+ML001,Shillong,Meghalaya,Lumpyngngad,Shillong,Meghalaya PCB
+MZ001,Aizawl,Mizoram,Sikulpuikawn,Aizawl,Mizoram PCB
+OD001,Brajrajnagar,Odisha,GM Office,Brajrajnagar,OSPCB
+OD002,Talcher,Odisha,Talcher Coalfields,Talcher,OSPCB
+PB001,Amritsar,Punjab,Golden Temple,Amritsar,PPCB
+PB002,Bathinda,Punjab,Hardev Nagar,Bathinda,PPCB
+PB003,Jalandhar,Punjab,Civil Line,Jalandhar,PPCB
+PB004,Khanna,Punjab,Kalal Majra,Khanna,PPCB
+PB005,Ludhiana,Punjab,Punjab Agricultural University,Ludhiana,PPCB
+PB006,Gobindgarh,Punjab,RIMT University,Mandi Gobindgarh,PPCB
+PB007,Patiala,Punjab,Model Town,Patiala,PPCB
+PB008,Rupnagar,Punjab,Ratanpura,Rupnagar,Ambuja Cements
+RJ001,Alwar,Rajasthan,Moti Doongri,Alwar,RSPCB
+RJ002,Ajmer,Rajasthan,Civil Lines,Ajmer,RSPCB
+RJ003,Bhiwandi,Rajasthan,RIICO Ind. Area III,Bhiwadi,RSPCB
+RJ004,Jaipur,Rajasthan,Adarsh Nagar,Jaipur,RSPCB
+RJ005,Jaipur,Rajasthan,Police Commissionerate,Jaipur,RSPCB
+RJ006,Jaipur,Rajasthan,Shastri Nagar,Jaipur,RSPCB
+RJ007,Jodhpur,Rajasthan,Collectorate,Jodhpur,RSPCB
+RJ008,Kota,Rajasthan,Shrinath Puram,Kota,RSPCB
+RJ009,Pali,Rajasthan,Indira Colony Vistar,Pali,RSPCB
+RJ010,Udaipur,Rajasthan,Ashok Nagar,Udaipur,RSPCB
+TN001,Chennai,Tamil Nadu,Alandur Bus Depot,Chennai,CPCB
+TN002,Chennai,Tamil Nadu,Manali Village,Chennai,TNPCB
+TN003,Chennai,Tamil Nadu,Manali,Chennai,CPCB
+TN004,Chennai,Tamil Nadu,Velachery Res. Area,Chennai,CPCB
+TN005,Coimbatore,Tamil Nadu,SIDCO Kurichi,Coimbatore,TNPCB
+TG001,Hyderabad,Telangana,Bollaram Industrial Area,Hyderabad,TSPCB
+TG002,Hyderabad,Telangana,Central University,Hyderabad,TSPCB
+TG003,Hyderabad,Telangana,ICRISAT Patancheru,Hyderabad,TSPCB
+TG004,Hyderabad,Telangana,IDA Pashamylaram,Hyderabad,TSPCB
+TG005,Hyderabad,Telangana,Sanathnagar,Hyderabad,TSPCB
+TG006,Hyderabad,Telangana,Zoo Park,Hyderabad,TSPCB
+UP001,Agra,Uttar Pradesh,Sanjay Palace,Agra,UPPCB
+UP002,Baghpat,Uttar Pradesh,New Collectorate,Baghpat,UPPCB
+UP003,Bulandshahr,Uttar Pradesh,Yamunapuram,Bulandshahr,UPPCB
+UP004,Ghaziabad,Uttar Pradesh,Indirapuram,Ghaziabad,UPPCB
+UP005,Ghaziabad,Uttar Pradesh,Loni,Ghaziabad,UPPCB
+UP006,Ghaziabad,Uttar Pradesh,Sanjay Nagar,Ghaziabad,UPPCB
+UP007,Ghaziabad,Uttar Pradesh,Vasundhara,Ghaziabad,UPPCB
+UP008,Greater Noida,Uttar Pradesh,Knowledge Park - III,Greater Noida,UPPCB
+UP009,Greater Noida,Uttar Pradesh,Knowledge Park - V,Greater Noida,UPPCB
+UP010,Hapur,Uttar Pradesh,Anand Vihar,Hapur,UPPCB
+UP011,Kanpur,Uttar Pradesh,Nehru Nagar,Kanpur,UPPCB
+UP012,Lucknow,Uttar Pradesh,Central School,Lucknow,CPCB
+UP013,Lucknow,Uttar Pradesh,Gomti Nagar,Lucknow,UPPCB
+UP014,Lucknow,Uttar Pradesh,Lalbagh,Lucknow,CPCB
+UP015,Lucknow,Uttar Pradesh,Nishant Ganj,Lucknow,UPPCB
+UP016,Lucknow,Uttar Pradesh,Talkatora District Industries Center,Lucknow,CPCB
+UP017,Meerut,Uttar Pradesh,Ganga Nagar,Meerut,UPPCB
+UP018,Meerut,Uttar Pradesh,Jai Bhim Nagar,Meerut,UPPCB
+UP019,Meerut,Uttar Pradesh,Pallavpuram Phase 2,Meerut,UPPCB
+UP020,Moradabad,Uttar Pradesh,Lajpat Nagar,Moradabad,UPPCB
+UP021,Muzzaffarnagar,Uttar Pradesh,New Mandi,Muzaffarnagar,UPPCB
+UP022,Noida,Uttar Pradesh,Sector - 125,Noida,UPPCB
+UP023,Noida,Uttar Pradesh,Sector - 62,Noida,IMD
+UP024,Noida,Uttar Pradesh,Sector-1,Noida,UPPCB
+UP025,Noida,Uttar Pradesh,Sector-116,Noida,UPPCB
+UP026,Varanasi,Uttar Pradesh,Ardhali Bazar,Varanasi,UPPCB
+WB001,Asansol,West Bengal,Asansol Court Area,Asansol,WBPCB
+WB002,Durgapur,West Bengal,Sidhu Kanhu Indoor Stadium,Durgapur,WBPCB
+WB003,Haldia,West Bengal,Haldia,Haldia,WBPCB
+WB004,Howrah,West Bengal,Belur Math,Howrah,WBPCB
+WB005,Howrah,West Bengal,Ghusuri,Howrah,WBPCB
+WB006,Howrah,West Bengal,Padmapukur,Howrah,WBPCB
+WB007,Kolkata,West Bengal,Ballygunge,Kolkata,WBPCB
+WB008,Kolkata,West Bengal,Bidhannagar,Kolkata,WBPCB
+WB009,Kolkata,West Bengal,Fort William,Kolkata,WBPCB
+WB010,Kolkata,West Bengal,Jadavpur,Kolkata,WBPCB
+WB011,Kolkata,West Bengal,Rabindra Bharati University,Kolkata,WBPCB
+WB012,Kolkata,West Bengal,Rabindra Sarobar,Kolkata,WBPCB
+WB013,Kolkata,West Bengal,Victoria,Kolkata,WBPCB
+WB014,Siliguri,West Bengal,Ward-32 Bapupara,Siliguri,WBPCB
